@@ -44,8 +44,8 @@ Time result:\
 ![image](https://user-images.githubusercontent.com/72127610/151669676-1c340b49-7fec-4855-a8a6-1fac3d22d16c.png) \
 This calculation took 15.87 seconds. \
 By default, most functions in R run on a single processing core.\
-With the multi-core processors in most systems today, the potential for reduced run time by simply dividing tasks onto multiple cores is very significant.\
-The library ```parallel``` helps us achieve that.\
+With the multi-core processors in most systems today, the potential for reduced run time by simply dividing tasks onto multiple cores is very significant.
+The library ```parallel``` helps us achieve that.
 ```r
 library(parallel)
 # Detect the number of available cores and create cluster-1
