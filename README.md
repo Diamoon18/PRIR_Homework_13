@@ -66,7 +66,7 @@ Summarizing, with this library it was possible to get the code speed up in 3 tim
 ## Parallel Programming In Python - ```threading``` module + ```turtle``` library 
 ```threading```  - Thread-based parallelism.\
 In Python, it is very easy to run the code of one of functions from its own thread: \
-To do this we need import the module ```threading``` and pass start_new_thread() the function name. \
+To do this we need import the module ```threading``` and pass start_new_thread() the function name, \
 as well as possible parameter values that we pack into a tuple. \
 The thread begins running immediately and executes the code of our function. \
 ```Threading``` contains class Thread.\
