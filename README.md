@@ -40,7 +40,7 @@ time_benchmark <- system.time(
 )
 time_benchmark
 ```
-Time result:
+Time result:\
 ![image](https://user-images.githubusercontent.com/72127610/151669676-1c340b49-7fec-4855-a8a6-1fac3d22d16c.png) \
 This calculation took 15.87 seconds. \
 By default, most functions in R run on a single processing core.\
@@ -59,8 +59,8 @@ time_parallel
 # Close cluster
 stopCluster(cl)
 ```
-Time result:
-![image](https://user-images.githubusercontent.com/72127610/151670082-eb675932-0402-49c1-aee2-148b27325507.png)
+Time result:\
+![image](https://user-images.githubusercontent.com/72127610/151670082-eb675932-0402-49c1-aee2-148b27325507.png) \
 This calculation took 4.88 seconds.
 ## Parallel Programming In Python - ```cos``` + ```turtle``` library 
 ## Sources:
