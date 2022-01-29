@@ -64,6 +64,14 @@ Time result:\
 This calculation took 4.88 seconds.\
 Summarizing, with this library it was possible to get the code speed up in 3 times or even more.
 ## Parallel Programming In Python - ```threading``` + ```turtle``` library 
+### Result image without anu threads
+![image](https://user-images.githubusercontent.com/72127610/151676607-4f0eaa90-39c1-4ca8-9c1f-0d47afa22025.png) \
+Time result: \
+![image](https://user-images.githubusercontent.com/72127610/151676637-c1dafac0-7906-4b47-b257-282d9f4113c9.png) \
+### Result image with ```threading``` library
+![image](https://user-images.githubusercontent.com/72127610/151676686-c3d999b8-ef8b-4e5c-ae4e-d47d378fbd48.png) \
+Time result: \
+![image](https://user-images.githubusercontent.com/72127610/151676696-d6a14f46-da8d-461e-8220-8110b6abad64.png)
 ## Sources:
 1. https://towardsdatascience.com/getting-started-with-parallel-programming-in-r-d5f801d43745
 2. https://pbiecek.gitbooks.io/przewodnik/content/Programowanie/pazury/rownolegle.html
