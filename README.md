@@ -61,7 +61,8 @@ stopCluster(cl)
 ```
 Time result:\
 ![image](https://user-images.githubusercontent.com/72127610/151670082-eb675932-0402-49c1-aee2-148b27325507.png) \
-This calculation took 4.88 seconds.
+This calculation took 4.88 seconds.\
+Summarizing, with this library it was possible to get the code speed up in 3 times or even more.
 ## Parallel Programming In Python - ```cos``` + ```turtle``` library 
 ## Sources:
 1. https://towardsdatascience.com/getting-started-with-parallel-programming-in-r-d5f801d43745
