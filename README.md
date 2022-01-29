@@ -121,7 +121,7 @@ Task -> draw a flower using the ```turtle``` library; also with and without ```t
 Time result: \
 ![image](https://user-images.githubusercontent.com/72127610/151676803-1888bdff-01b1-4a75-9098-ab74f04d0657.png) \
 This calculation took 17.7411 seconds.
-### Result image with ```threading``` library
+### Result image with ```threading``` 
 ![image](https://user-images.githubusercontent.com/72127610/151676686-c3d999b8-ef8b-4e5c-ae4e-d47d378fbd48.png) \
 Time result: \
 ![image](https://user-images.githubusercontent.com/72127610/151676696-d6a14f46-da8d-461e-8220-8110b6abad64.png) \
