@@ -64,14 +64,18 @@ Time result:\
 This calculation took 4.88 seconds.\
 Summarizing, with this library it was possible to get the code speed up in 3 times or even more.
 ## Parallel Programming In Python - ```threading``` + ```turtle``` library 
+```threading```
+### Example with treading and turtle 
+Task -> draw a flower using the ```turtle``` library; also with and without ```threading``` library.
 ### Result image without any threads
 ![image](https://user-images.githubusercontent.com/72127610/151676794-02c41afd-9137-4cab-9a36-4adbfcea32da.png) \
 Time result: \
-![image](https://user-images.githubusercontent.com/72127610/151676803-1888bdff-01b1-4a75-9098-ab74f04d0657.png) 
+![image](https://user-images.githubusercontent.com/72127610/151676803-1888bdff-01b1-4a75-9098-ab74f04d0657.png) \
+This calculation took 17 seconds
 ### Result image with ```threading``` library
 ![image](https://user-images.githubusercontent.com/72127610/151676686-c3d999b8-ef8b-4e5c-ae4e-d47d378fbd48.png) \
 Time result: \
-![image](https://user-images.githubusercontent.com/72127610/151676696-d6a14f46-da8d-461e-8220-8110b6abad64.png)
+![image](https://user-images.githubusercontent.com/72127610/151676696-d6a14f46-da8d-461e-8220-8110b6abad64.png) \
 ## Sources:
 1. https://towardsdatascience.com/getting-started-with-parallel-programming-in-r-d5f801d43745
 2. https://pbiecek.gitbooks.io/przewodnik/content/Programowanie/pazury/rownolegle.html
