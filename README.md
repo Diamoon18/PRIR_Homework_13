@@ -22,7 +22,7 @@ The ```apply()``` family of R functions to apply that function to all of the mem
 ```lapply()```, which applies a function to each of the members of a list.\
 Parallel library:\
 ```parLapply()``` function, that can work with PSOC, FORK and other clusters.\
-```mclapply()```, can work only with FORK.\
+```mclapply()```, can work only with FORK.
 ### Example lapply() and parLapply()
 We have a list containing four large vectors.\
 For each of the four large vectors, we want to calculate the mean.\
