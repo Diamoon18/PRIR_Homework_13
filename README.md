@@ -65,9 +65,9 @@ This calculation took 4.88 seconds.\
 Summarizing, with this library it was possible to get the code speed up in 3 times or even more.
 ## Parallel Programming In Python - ```threading``` + ```turtle``` library 
 ### Result image without anu threads
-![image](https://user-images.githubusercontent.com/72127610/151676607-4f0eaa90-39c1-4ca8-9c1f-0d47afa22025.png) \
+![image](https://user-images.githubusercontent.com/72127610/151676794-02c41afd-9137-4cab-9a36-4adbfcea32da.png) \
 Time result: \
-![image](https://user-images.githubusercontent.com/72127610/151676637-c1dafac0-7906-4b47-b257-282d9f4113c9.png) \
+![image](https://user-images.githubusercontent.com/72127610/151676803-1888bdff-01b1-4a75-9098-ab74f04d0657.png) 
 ### Result image with ```threading``` library
 ![image](https://user-images.githubusercontent.com/72127610/151676686-c3d999b8-ef8b-4e5c-ae4e-d47d378fbd48.png) \
 Time result: \
